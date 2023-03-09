@@ -72,8 +72,8 @@ This homework is to propose an innovative project and describe the key features,
 The Target Market size (TAM) of the navigate Products is the number of cars scooters and people.<br>
 
 ---
-### Taiwan Households = 8.93M (台灣 9百萬戶）
-* [Total number of households in Taiwan from 2010 to 2020(in 1,000s)](https://www.statista.com/statistics/330804/taiwan-national-total-number-of-households/#:~:text=By%20the%20end%20of%202020,households%20in%20the%20previous%20year.)
+### Taiwan Population=23,301,968 pepole
+* [Total population of pepole in Taiwan ](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E4%BA%BA%E5%8F%A3)
 
 ### Japan Households = 57.2M (日本 5千7百萬戶)
 * [Number of Households in Japan](https://www.helgilibrary.com/indicators/number-of-households/japan/) 
