@@ -65,7 +65,7 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 ## Market Analysis (市場分析)
-![](https://blog.hubspot.com/hs-fs/hubfs/tam-sam-som.png?width=1200&name=tam-sam-som.png)
+![]([https://blog.hubspot.com/hs-fs/hubfs/tam-sam-som.png?width=1200&name=tam-sam-som.png](https://github.com/sean195114/MCU-project/blob/main/images/w=600&h=600&r=16888%20new.jpg?raw=true))
 
 ---
 ### TAM of Future Home Products
