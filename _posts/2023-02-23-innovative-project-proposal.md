@@ -75,8 +75,8 @@ The Target Market size (TAM) of the navigate Products is the number of cars scoo
 ### Taiwan Population=23,301,968 pepole
 * [Total population of pepole in Taiwan ](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E4%BA%BA%E5%8F%A3)
 
-### Japan Households = 57.2M (日本 5千7百萬戶)
-* [Number of Households in Japan](https://www.helgilibrary.com/indicators/number-of-households/japan/) 
+### The number of cars and scooters in Taiwan
+* [Number of cars and scooters in Taiwan](https://stat.motc.gov.tw/mocdb/stmain.jsp?sys=100&funid=a3301) 
 
 ### South Korea Households = 19.9M (南韓 2千萬戶)
 * [Number of Households in South Korea](https://www.helgilibrary.com/indicators/number-of-households/south-korea/)
