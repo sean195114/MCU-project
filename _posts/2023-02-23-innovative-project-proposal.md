@@ -78,7 +78,7 @@ The Target Market size (TAM) of the navigate Products is the number of cars scoo
 ### The number of cars and scooters in Taiwan
 * [Number of cars and scooters in Taiwan](https://stat.motc.gov.tw/mocdb/stmain.jsp?sys=100&funid=a3301) 
 
-### South Korea Households = 19.9M (南韓 2千萬戶)
+<!--### South Korea Households = 19.9M (南韓 2千萬戶)
 * [Number of Households in South Korea](https://www.helgilibrary.com/indicators/number-of-households/south-korea/)
 
 ---
@@ -136,4 +136,4 @@ The Target Market size (TAM) of the navigate Products is the number of cars scoo
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
 
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/nXwXtjmV2jI" title="【SPY x FAMILY】派對咖安妮亞" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/nXwXtjmV2jI" title="【SPY x FAMILY】派對咖安妮亞" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
