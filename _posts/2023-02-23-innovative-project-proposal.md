@@ -66,10 +66,10 @@ This homework is to propose an innovative project and describe the key features,
 ---
 ## Market Analysis (市場分析)
 ![](https://github.com/sean195114/MCU-project/blob/main/images/w=600&h=600&r=16888%20new.jpg?raw=true)
-
+![](https://github.com/sean195114/MCU-project/blob/main/images/Population_density_of_Taiwan%20new.jpg?raw=true)
 ---
 ### TAM of Future Home Products
-The Target Market size (TAM) of Future Home Products is the number of household.<br>
+The Target Market size (TAM) of the navigate Products is the number of cars scooters and people.<br>
 
 ---
 ### Taiwan Households = 8.93M (台灣 9百萬戶）
