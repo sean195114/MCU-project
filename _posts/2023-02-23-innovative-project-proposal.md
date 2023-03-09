@@ -56,7 +56,7 @@ This homework is to propose an innovative project and describe the key features,
 
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_flying_robot.png?raw=true)
+![](https://github.com/sean195114/MCU-project/blob/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-03-09%20200430.png?raw=true)
 
 ---
 ## Design Methodology (設計方法)
