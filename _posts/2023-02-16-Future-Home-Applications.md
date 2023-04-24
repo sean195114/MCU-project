@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Future Home Applications
+title: ESP32 Robot Car
 author: [Richard Kuo]
 category: [Lecture]
 tags: [jekyll, ai]
