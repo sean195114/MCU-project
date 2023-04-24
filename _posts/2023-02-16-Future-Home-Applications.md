@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ESP32 Robot Car
-author: [Richard Kuo]
+title: Futre Home Applications
+author: [Sean Su]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
