@@ -9,7 +9,7 @@ tags: [jekyll, ai]
 This homework is to propose an innovative project and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
 ---
-<!--## Futre Home Applications
+## Futre Home Applications
 
 ### Nextflix movie: Big Bug
 <iframe width="993" height="559" src="https://www.youtube.com/embed/FWUkh23vBhs" title="BIGBUG Trailer (2022)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -136,4 +136,4 @@ The Target Market size (TAM) of the navigate Products is the number of cars scoo
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
 
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/nXwXtjmV2jI" title="【SPY x FAMILY】派對咖安妮亞" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/nXwXtjmV2jI" title="【SPY x FAMILY】派對咖安妮亞" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
