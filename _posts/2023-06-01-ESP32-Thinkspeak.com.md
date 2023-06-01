@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MAX30102
+title: ESP32 IoT Thinkspeak.com
 author: [Sean Su]
 category: [Lecture]
 tags: [jekyll, ai]
@@ -24,7 +24,7 @@ This project use DHT11 as a sensor to detech the Temperature and Hunidety. And t
 
 
 ### 系統方塊圖
-![](https://github.com/sean195114/MCU-project/blob/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-05-25%20191013.png?raw=true)
+![](https://github.com/sean195114/MCU-project/blob/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-06-01%20221142.png?raw=true)
 
 
 ## Code: 
@@ -136,8 +136,7 @@ void loop() {
 ```
 
 ## Project Review:
-<iframe width="347" height="618" src="https://www.youtube.com/embed/E08EAp6gzqI" title="MAX30120" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+![](https://github.com/sean195114/MCU-project/blob/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-06-01%20221212.png?raw=true)
 <br>
 <br>
 
